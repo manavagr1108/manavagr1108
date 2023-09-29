@@ -1,13 +1,8 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Manav Aggarwal 👋
-  <h3 align="center"> Interning @<a href="https://www.goldmansachs.com/">Goldman Sachs</a> | Interned @<a href="https://workduck.io/">Workduck</a> | software manager @<a href="https://www.instagram.com/vortex_nitt/?hl=en">Vortex</a></h3>
+  <h3 align="center"> GSoC'23 @<a href="https://github.com/learningequality">Learning Equality</a> <h3 align="center"> Interned @<a href="https://www.goldmansachs.com/">Goldman Sachs</a> | Interned @<a href="https://workduck.io/">Workduck</a> | software manager @<a href="https://www.instagram.com/vortex_nitt/?hl=en">Vortex</a></h3>
   <h3 align="center">Web developer | Pre-Final Year at NIT Trichy </h3>
-
-
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavagr1108&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavagr1108&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![](https://komarev.com/ghpvc/?username=manavagr1108)
 
 ## Tech Stacks
 
